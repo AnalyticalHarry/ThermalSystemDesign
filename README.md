@@ -5,7 +5,6 @@
 
 This project is an open-research study on Thermal System Design, a core topic in Mechanical Engineering. The research utilizes open-source software and resources, including Jupyter Notebook, Pandas, Matplotlib, Seaborn, NumPy, Python in-built libraries, and previously published journals.
 
-![Thermal System Design](image.png)
 
 ## Libraries
 
