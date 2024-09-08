@@ -1,6 +1,7 @@
 # Thermal System Design 
 
 **Author:** Hemant Thapa  
+
 **LinkedIn:** [Hemant Thapa](https://www.linkedin.com/in/thapahemant/)
 
 **Email:** hemantthapa1998@gmail.com
